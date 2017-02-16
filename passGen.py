@@ -1,7 +1,8 @@
 #!/usr/bin/python
 import sys, random
 
-def passGenVars(numvars, asciivars, maxchars):
-  for i in random.randrange(0, len(asciivars)):
-    list(numvars[i])
-    if 
+def passGenVars(words, minchars, maxchars):
+  for i in random.randrange(0, random.randrange(0, len(words)):
+    for n in random.randrange(minchars, maxchars):
+        workspace = [n]
+        
